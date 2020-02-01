@@ -1,0 +1,24 @@
+{
+  "name": "profile_generator",
+  "version": "1.0.0",
+  "description": "This app will be used to pull info from a user's github profile and generate a pdf with a color scheme selected from the terminal command line.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahaymond-dev/profile_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahaymond-dev/profile_generator/issues"
+  },
+  "homepage": "https://github.com/ahaymond-dev/profile_generator#readme"
+}
